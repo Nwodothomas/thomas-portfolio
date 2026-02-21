@@ -1,0 +1,59 @@
+{
+  "publications": [
+    {
+      "id": 1,
+      "title": "IoT-Enabled Smart Agriculture: A Systematic Review",
+      "type": "Journal Article",
+      "year": 2024,
+      "journal": "International Journal of Agricultural Technology",
+      "authors": "Thomas Nwodo, et al.",
+      "summary": "Comprehensive review of IoT applications in modern agriculture and food security.",
+      "link": "https://example.com/publication-1",
+      "doi": "10.1234/ijat.2024.001"
+    },
+    {
+      "id": 2,
+      "title": "Machine Learning for Crop Disease Detection: A Case Study",
+      "type": "Conference Paper",
+      "year": 2023,
+      "conference": "International Conference on AI & Agriculture",
+      "authors": "Thomas Nwodo, Jane Smith",
+      "summary": "Application of deep learning for real-time crop disease identification in sub-Saharan Africa.",
+      "link": "https://example.com/publication-2",
+      "doi": "10.1234/icaia.2023.045"
+    },
+    {
+      "id": 3,
+      "title": "Renewable Energy Integration in Rural Communities",
+      "type": "Technical Report",
+      "year": 2023,
+      "organization": "African Clean Energy Initiative",
+      "authors": "Thomas Nwodo",
+      "summary": "Framework for integrating solar and wind energy in off-grid rural areas.",
+      "link": "https://example.com/publication-3",
+      "doi": "10.1234/acei.2023.tech.001"
+    },
+    {
+      "id": 4,
+      "title": "Climate-Smart Agriculture Practices: Implementation Guide",
+      "type": "Case Study",
+      "year": 2022,
+      "organization": "Global Agricultural Research",
+      "authors": "Thomas Nwodo, et al.",
+      "summary": "Practical guide for implementing climate-smart agriculture in developing regions.",
+      "link": "https://example.com/publication-4",
+      "doi": "10.1234/gar.2022.cs.012"
+    },
+    {
+      "id": 5,
+      "title": "Water Resources Management Using IoT and AI",
+      "type": "Journal Article",
+      "year": 2022,
+      "journal": "Water Resources Management Review",
+      "authors": "Thomas Nwodo, Michael Chen",
+      "summary": "Innovative approaches to water conservation using emerging technologies.",
+      "link": "https://example.com/publication-5",
+      "doi": "10.1234/wrm.2022.089"
+    }
+  ]
+}

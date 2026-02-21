@@ -1,0 +1,49 @@
+{
+  "training": [
+    {
+      "id": 1,
+      "title": "IoT Diagnostics & Troubleshooting",
+      "year": 2024,
+      "traineesCount": 250,
+      "organizations": ["Tech Institute Africa", "Rural Development Center"],
+      "description": "Comprehensive training on IoT system diagnostics, maintenance, and troubleshooting.",
+      "categories": ["IoT", "Technical Skills"]
+    },
+    {
+      "id": 2,
+      "title": "Climate-Smart Agriculture Practices",
+      "year": 2024,
+      "traineesCount": 300,
+      "organizations": ["Farmers Cooperative", "Agricultural Extension Service"],
+      "description": "Practical training for farmers on implementing climate-smart agricultural techniques.",
+      "categories": ["Agriculture", "Sustainability"]
+    },
+    {
+      "id": 3,
+      "title": "Youth Innovation & Entrepreneurship",
+      "year": 2023,
+      "traineesCount": 400,
+      "organizations": ["Youth Empowerment NGO", "Tech Hub Initiative"],
+      "description": "Mentorship and training for young innovators developing technology solutions.",
+      "categories": ["Entrepreneurship", "Innovation"]
+    },
+    {
+      "id": 4,
+      "title": "Advanced Software Development",
+      "year": 2023,
+      "traineesCount": 150,
+      "organizations": ["Code Academy", "Tech University"],
+      "description": "Advanced techniques in full-stack development and system architecture.",
+      "categories": ["Software Development", "Technical Skills"]
+    },
+    {
+      "id": 5,
+      "title": "Solar Installation & Maintenance",
+      "year": 2022,
+      "traineesCount": 200,
+      "organizations": ["Energy Institute", "Technical College"],
+      "description": "Professional training on solar system installation, maintenance, and optimization.",
+      "categories": ["Clean Energy", "Technical Skills"]
+    }
+  ]
+}

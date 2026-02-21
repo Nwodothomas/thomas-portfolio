@@ -1,0 +1,65 @@
+{
+  "name": "Thomas Nwodo",
+  "title": "Research Technologist | AI Systems Partner | IoT Engineer | Software Consultant",
+  "bio": "I am a multidisciplinary technologist passionate about solving real-world problems through research, innovative software solutions, IoT systems, and sustainable clean energy initiatives.",
+  "email": "thomas@example.com",
+  "phone": "+1 (XXX) XXX-XXXX",
+  "location": "Cibolo, TX",
+  "timezone": "UTC-6 (CST)",
+  "avatar": "/images/thomas-avatar.jpg",
+  "coverImage": "/images/cover.jpg",
+  "shortBio": "Research Technologist & Software Consultant",
+  "mission": "Leveraging technology and innovation to create sustainable solutions for global challenges.",
+  "vision": "To build a future where technology empowers communities, drives scientific discovery, and promotes environmental sustainability.",
+  "competencies": [
+    {
+      "category": "Systems Architecture",
+      "skills": ["Microservices", "Cloud Architecture", "System Design", "API Design"]
+    },
+    {
+      "category": "IoT & AI Engineering",
+      "skills": ["IoT Sensor Networks", "Embedded Systems", "Machine Learning", "Predictive Analytics"]
+    },
+    {
+      "category": "Software Development",
+      "skills": ["Full-Stack Development", "Backend Architecture", "Frontend Frameworks", "DevOps"]
+    },
+    {
+      "category": "Clean Energy Systems",
+      "skills": ["Solar Design", "Energy Audits", "Smart Monitoring", "Climate-Smart Agriculture"]
+    },
+    {
+      "category": "Research & Innovation",
+      "skills": ["Data Analysis", "Academic Research", "Technical Writing", "Peer Review"]
+    }
+  ],
+  "impactMetrics": [
+    {
+      "metric": "500+",
+      "description": "Farmers & Communities Served"
+    },
+    {
+      "metric": "550+",
+      "description": "Technicians Trained"
+    },
+    {
+      "metric": "50+",
+      "description": "Research Publications"
+    },
+    {
+      "metric": "15+",
+      "description": "Years in Technology"
+    }
+  ],
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/in/thomas-nwodo",
+    "github": "https://github.com",
+    "researchgate": "https://researchgate.net",
+    "googleScholar": "https://scholar.google.com",
+    "upwork": "https://upwork.com",
+    "fiverr": "https://fiverr.com",
+    "whatsapp": "https://wa.me/1234567890"
+  },
+  "availability": "Available for consultancy, freelance projects, and collaborations",
+  "contractTypes": ["Hourly", "Fixed", "Retainer", "Project-based"]
+}

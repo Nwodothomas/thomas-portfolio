@@ -1,0 +1,76 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Smart Agriculture Monitoring Platform",
+      "year": 2024,
+      "category": "IoT",
+      "description": "Real-time monitoring system for crop health using IoT sensors and machine learning predictions.",
+      "role": "Lead Architect & Developer",
+      "technologies": ["IoT", "Python", "React", "PostgreSQL", "AWS"],
+      "outcomes": "Deployed to 500+ farmers, increasing crop yield by 35%",
+      "image": "/images/projects/smart-agriculture.jpg",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Water Quality Monitoring System",
+      "year": 2024,
+      "category": "IoT",
+      "description": "Automated water quality monitoring for agricultural and environmental applications.",
+      "role": "System Designer",
+      "technologies": ["IoT", "Node.js", "Vue.js", "MongoDB", "MQTT"],
+      "outcomes": "Monitoring 50+ water sources across 3 regions",
+      "image": "/images/projects/water-quality.jpg",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "AI-Powered Pest Detection Model",
+      "year": 2023,
+      "category": "AI/ML",
+      "description": "Machine learning model for detecting and classifying crop pests from images.",
+      "role": "ML Engineer",
+      "technologies": ["TensorFlow", "Python", "OpenCV", "FastAPI"],
+      "outcomes": "96% accuracy in pest detection, helping 200+ farmers",
+      "image": "/images/projects/pest-detection.jpg",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "title": "E-Commerce Platform for SMEs",
+      "year": 2023,
+      "category": "Software",
+      "description": "Scalable e-commerce solution enabling SMEs to reach global customers.",
+      "role": "Full-Stack Developer",
+      "technologies": ["Vue.js", "Node.js", "PostgreSQL", "Stripe API"],
+      "outcomes": "Supporting 50+ SMEs, $2M+ in transactions processed",
+      "image": "/images/projects/ecommerce.jpg",
+      "link": "#"
+    },
+    {
+      "id": 5,
+      "title": "Solar System Optimization Tool",
+      "year": 2023,
+      "category": "Energy",
+      "description": "Analysis and optimization tool for solar panel placement and energy production.",
+      "role": "Developer",
+      "technologies": ["React", "Python", "Google Maps API"],
+      "outcomes": "Optimized 100+ installations, average efficiency improvement 20%",
+      "image": "/images/projects/solar-optimization.jpg",
+      "link": "#"
+    },
+    {
+      "id": 6,
+      "title": "Climate Research Data Platform",
+      "year": 2022,
+      "category": "Research",
+      "description": "Collaborative platform for climate research data collection and analysis.",
+      "role": "Lead Developer",
+      "technologies": ["React", "Node.js", "MongoDB", "D3.js"],
+      "outcomes": "200+ researchers collaborating, 50+ publications",
+      "image": "/images/projects/climate-research.jpg",
+      "link": "#"
+    }
+  ]
+}

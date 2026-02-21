@@ -1,0 +1,44 @@
+{
+  "awards": [
+    {
+      "id": 1,
+      "title": "Technology Innovation Award",
+      "year": 2024,
+      "organization": "African Tech Excellence Summit",
+      "category": "IoT & Smart Solutions",
+      "description": "Recognition for innovative IoT solutions in agriculture and environmental monitoring."
+    },
+    {
+      "id": 2,
+      "title": "Young Innovator Recognition",
+      "year": 2023,
+      "organization": "Global Innovation Forum",
+      "category": "Entrepreneurship",
+      "description": "Award for outstanding contributions to technology entrepreneurship and social impact."
+    },
+    {
+      "id": 3,
+      "title": "Research Excellence Award",
+      "year": 2023,
+      "organization": "International Research Institute",
+      "category": "Research",
+      "description": "Recognition for groundbreaking research in climate-smart agriculture."
+    },
+    {
+      "id": 4,
+      "title": "Clean Energy Pioneer",
+      "year": 2022,
+      "organization": "Sustainable Energy Initiative",
+      "category": "Renewable Energy",
+      "description": "Award for advancing renewable energy adoption in rural communities."
+    },
+    {
+      "id": 5,
+      "title": "Software Development Excellence",
+      "year": 2022,
+      "organization": "Tech Community Leaders",
+      "category": "Software Engineering",
+      "description": "Recognition for outstanding technical contributions and mentorship."
+    }
+  ]
+}

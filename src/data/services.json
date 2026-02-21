@@ -1,0 +1,124 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "category": "Software Development & Consultancy",
+      "icon": "💻",
+      "title": "Full-Stack Development",
+      "description": "End-to-end web and mobile application development with scalable architecture.",
+      "features": [
+        "Full-stack development",
+        "Backend architecture",
+        "API development",
+        "Cloud & DevOps",
+        "System design & documentation"
+      ],
+      "link": "/services#software"
+    },
+    {
+      "id": 2,
+      "category": "Software Development & Consultancy",
+      "icon": "🤖",
+      "title": "AI/ML Model Development",
+      "description": "Custom machine learning solutions for predictive analytics and automation.",
+      "features": [
+        "Model development",
+        "Data analysis",
+        "Predictive analytics",
+        "Training & optimization",
+        "Production deployment"
+      ],
+      "link": "/services#software"
+    },
+    {
+      "id": 3,
+      "category": "IoT, AI & Automation Solutions",
+      "icon": "📡",
+      "title": "IoT Sensor Networks",
+      "description": "Design and implementation of IoT systems for monitoring and automation.",
+      "features": [
+        "Sensor network design",
+        "Data collection & processing",
+        "Real-time monitoring",
+        "Smart automation",
+        "Integration & maintenance"
+      ],
+      "link": "/services#iot"
+    },
+    {
+      "id": 4,
+      "category": "IoT, AI & Automation Solutions",
+      "icon": "🌾",
+      "title": "Smart Agriculture Systems",
+      "description": "IoT-driven solutions for modern, climate-smart agriculture.",
+      "features": [
+        "Smart irrigation",
+        "Soil monitoring",
+        "Crop yield optimization",
+        "Weather integration",
+        "Farmer training"
+      ],
+      "link": "/services#iot"
+    },
+    {
+      "id": 5,
+      "category": "IT Hardware Sales & Training",
+      "icon": "💾",
+      "title": "IT Hardware & Procurement",
+      "description": "Supply and installation of quality IT equipment for organizations.",
+      "features": [
+        "Laptops & desktops",
+        "Networking devices",
+        "IoT hardware kits",
+        "Diagnostic tools",
+        "Corporate procurement"
+      ],
+      "link": "/services#hardware"
+    },
+    {
+      "id": 6,
+      "category": "IT Hardware Sales & Training",
+      "icon": "🎓",
+      "title": "Technical Training Programs",
+      "description": "Professional training for technicians and teams.",
+      "features": [
+        "IoT diagnostics",
+        "Software development",
+        "Hardware troubleshooting",
+        "Climate-smart agriculture",
+        "Custom workshops"
+      ],
+      "link": "/services#hardware"
+    },
+    {
+      "id": 7,
+      "category": "Clean Energy & Environment",
+      "icon": "☀️",
+      "title": "Solar System Design & Installation",
+      "description": "Professional solar energy solutions for homes and businesses.",
+      "features": [
+        "System design",
+        "Installation",
+        "Maintenance",
+        "Efficiency optimization",
+        "ROI analysis"
+      ],
+      "link": "/services#energy"
+    },
+    {
+      "id": 8,
+      "category": "Clean Energy & Environment",
+      "icon": "⚡",
+      "title": "Energy Audits & Monitoring",
+      "description": "Comprehensive energy assessment and smart monitoring systems.",
+      "features": [
+        "Energy audits",
+        "Smart monitoring",
+        "Cost optimization",
+        "Sustainability reporting",
+        "Consulting"
+      ],
+      "link": "/services#energy"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "community": [
+    {
+      "id": 1,
+      "title": "Mentor for Young Tech Entrepreneurs",
+      "description": "Providing guidance and mentorship to aspiring tech founders building solutions for social impact.",
+      "year": "2023-Present",
+      "organization": "Tech Innovation Hub"
+    },
+    {
+      "id": 2,
+      "title": "Technical Advisory Board Member",
+      "description": "Advisory role with international NGO focused on agricultural development and food security.",
+      "year": "2023-Present",
+      "organization": "Global Agricultural Development NGO"
+    },
+    {
+      "id": 3,
+      "title": "Community Tech Ambassador",
+      "description": "Advocating for technology adoption and digital literacy in underserved communities.",
+      "year": "2022-Present",
+      "organization": "Digital Inclusion Initiative"
+    },
+    {
+      "id": 4,
+      "title": "Open Source Contributor",
+      "description": "Active contributor to open-source projects focused on agricultural technology and data analysis.",
+      "year": "2022-Present",
+      "organization": "AgTech Open Source Community"
+    },
+    {
+      "id": 5,
+      "title": "University Guest Lecturer",
+      "description": "Teaching workshops on IoT, AI, and sustainable technology at partner universities.",
+      "year": "2021-Present",
+      "organization": "African Universities Network"
+    }
+  ],
+  "impacts": [
+    {
+      "metric": "500+",
+      "description": "Farmers impacted through smart agriculture initiatives"
+    },
+    {
+      "metric": "55,000+",
+      "description": "People trained in various technical skills"
+    },
+    {
+      "metric": "1000+",
+      "description": "Students mentored in technology and entrepreneurship"
+    },
+    {
+      "metric": "20+",
+      "description": "Communities served with clean energy solutions"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "research": [
+    {
+      "title": "IoT & Smart Agriculture",
+      "description": "Using Internet of Things technology to optimize crop production and food security.",
+      "keyTopics": ["Sensor Networks", "Data Analytics", "Predictive Modeling"]
+    },
+    {
+      "title": "Machine Learning for Agricultural Development",
+      "description": "Applying artificial intelligence to solve farming challenges and improve livelihoods.",
+      "keyTopics": ["Computer Vision", "Predictive Analytics", "Automation"]
+    },
+    {
+      "title": "Clean Energy & Sustainability",
+      "description": "Researching renewable energy integration and sustainable development solutions.",
+      "keyTopics": ["Solar Energy", "Energy Efficiency", "Climate Action"]
+    },
+    {
+      "title": "Water Resources Management",
+      "description": "Innovative approaches to water conservation and quality monitoring.",
+      "keyTopics": ["Water Quality", "Monitoring Systems", "Resource Management"]
+    },
+    {
+      "title": "Technology for Development",
+      "description": "Exploring how technology can bridge development gaps in emerging economies.",
+      "keyTopics": ["Digital Inclusion", "Appropriate Technology", "Impact Measurement"]
+    }
+  ],
+  "grants": [
+    {
+      "title": "African Innovation Grant",
+      "year": 2024,
+      "amount": "$50,000",
+      "funder": "African Development Bank",
+      "project": "Smart Agriculture for Food Security"
+    },
+    {
+      "title": "Clean Energy Research Fund",
+      "year": 2023,
+      "amount": "$30,000",
+      "funder": "Global Climate Initiative",
+      "project": "Solar Integration in Rural Communities"
+    }
+  ]
+}
