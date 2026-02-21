@@ -71,6 +71,30 @@
       "outcomes": "200+ researchers collaborating, 50+ publications",
       "image": "/images/projects/climate-research.jpg",
       "link": "#"
+    },
+    {
+      "id": 7,
+      "title": "LiveMoreAI - AI-Powered Health & Wellness Platform",
+      "year": 2024,
+      "category": "Software",
+      "description": "Comprehensive AI-driven health and wellness application enabling users to track health metrics, get personalized recommendations, and connect with healthcare professionals.",
+      "role": "Full-Stack Developer & Project Lead",
+      "technologies": ["Vue.js", "Node.js", "PostgreSQL", "AI/ML", "AWS", "Docker"],
+      "outcomes": "Live production platform with user authentication, health tracking, and AI recommendations",
+      "image": "/images/projects/livemoreai.jpg",
+      "link": "https://www.livemoreai.com"
+    },
+    {
+      "id": 8,
+      "title": "Precious Home Cares - Healthcare Services Platform",
+      "year": 2024,
+      "category": "Software",
+      "description": "Full-featured web application for home healthcare services management, including caregiver scheduling, patient management, billing, and service tracking.",
+      "role": "Full-Stack Developer",
+      "technologies": ["Vue.js", "Node.js", "MySQL", "Stripe", "Google Maps API", "AWS"],
+      "outcomes": "Production-ready platform managing healthcare service delivery and patient care coordination",
+      "image": "/images/projects/precious-home-cares.jpg",
+      "link": "https://www.precioushomecares.com"
     }
   ]
 }
